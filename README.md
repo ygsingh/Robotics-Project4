@@ -1,4 +1,8 @@
 # Instructions to run project
+
+link to DB file: 
+https://drive.google.com/file/d/1EcNF7Fq0-eTM91D09pDH6eZ_aqnTmD6t/view?usp=sharing
+
 ## Terminal 1
 
 '''
